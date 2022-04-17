@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main {
+    height: 98.7vh;
+    width: 98.7vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #5b5b5a;
+    gap: 20px;
+}
+.title {
+    color: white;
+}
+.sub-title {
+    color: white;
+    /* margin: 30px 0; */
+}
+.winner-para {
+    /* margin: 10px 0 0 0; */
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
