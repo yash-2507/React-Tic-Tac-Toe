@@ -1,5 +1,5 @@
-# React-Tic-Tac-Toe
-A simple Tik-Tac-Toe game using React.JS Hooks 
+# React Tic-Tac-Toe
+A simple Tic-Tac-Toe game using React.JS Hooks 
 
 You can enjoy the game with your partner. <br />
 <b>Tech used:</b>
